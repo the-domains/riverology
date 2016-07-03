@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Riverology]]></title>
-        <description><![CDATA[Riverology]]></description>
+        <title><![CDATA[the art of flow]]></title>
+        <description><![CDATA[the art of flow]]></description>
         <link>https://thegrid.ai/riverology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 16:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 16:19:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/riverology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Art of Flow]]></title>
+            <description><![CDATA[<article><h1>The Art of Flow</h1><h2>Inspired water related content... a place to float your boat. </h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ade277b8-19fc-48dd-845e-70890b8974d0.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ade277b8-19fc-48dd-845e-70890b8974d0.jpg</link>
+            <guid isPermaLink="false">07d7689c-5fb4-4a0a-951a-ffaa6643a178</guid>
+            <pubDate>Sun, 03 Jul 2016 16:19:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drinks: Smoked Manhattan]]></title>
             <description><![CDATA[<article><h1>Drinks: Smoked Manhattan</h1><p>Our good friends at Gin & Luck were kind enough to mix up a giant batch of Smoked Manhattan's for the WC-003 trip. When you can't have a fire, the next best thing is a fire in a flask. Here's the recipe for the mixologist in you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61b31e7329d9521e39e30d7f810f2557d817368f.jpg"></article>]]></description>
