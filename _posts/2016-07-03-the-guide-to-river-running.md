@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-03T17:25:59.402Z'
-datePublished: '2016-07-03T17:25:59.908Z'
+dateModified: '2016-07-03T17:25:24.018Z'
+datePublished: '2016-07-03T17:25:25.175Z'
 title: The Guide to River Running
 author: []
+starred: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f9a0e6-b405-4c2d-9679-43774b44cb96.jpg
 sourcePath: _posts/2016-07-03-the-guide-to-river-running.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
