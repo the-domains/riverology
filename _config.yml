@@ -1,0 +1,14 @@
+layout_spectrum: 0.9818931769113988
+typography_spectrum: 0.7059250171296299
+color:
+  brandStrength: 0.9601100923027843
+  lightness: 0.7659545377828181
+  saturation: 0.2603256825823337
+  rhythmicContrast: 0.6891183787956834
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Riverology
