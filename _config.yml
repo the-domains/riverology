@@ -1,14 +1,17 @@
-layout_spectrum: 0.2824814433697611
-typography_spectrum: 0.08435808541253209
+typography_spectrum: 0.7059250171296299
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9601100923027843
   lightness: 0.7659545377828181
   saturation: 0.2603256825823337
   rhythmicContrast: 0.6891183787956834
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.9818931769113988
 name: Riverology
+title: the art of flow
