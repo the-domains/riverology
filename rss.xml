@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[the art of flow]]></title>
         <description><![CDATA[the art of flow]]></description>
-        <link>https://thegrid.ai/riverology/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 17:26:29 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/riverology/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jul 2016 17:26:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Guide to River Running]]></title>
             <description><![CDATA[<article><h1>The Guide to River Running</h1><h2>by Forest Long 1983</h2><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52b3b21ebc7f7e969f1bb1a2b49200cb/croprotate.jpg?cropheight=2593&cropwidth=3888&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe6f9a0e6-b405-4c2d-9679-43774b44cb96.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f9a0e6-b405-4c2d-9679-43774b44cb96.jpg</link>
             <guid isPermaLink="false">fca467dc-36b6-4c71-a246-c36f2564ace9</guid>
-            <pubDate>Sun, 03 Jul 2016 17:25:25 GMT</pubDate>
+            <pubDate>Sun, 03 Jul 2016 17:25:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
