@@ -1,7 +1,7 @@
 ---
 description: ''
 dateModified: '2016-07-03T17:34:30.577Z'
-datePublished: '2016-07-03T17:34:31.236Z'
+datePublished: '2016-07-03T17:34:31.518Z'
 title: The Guide to River Running
 author:
   - name: DHKing
