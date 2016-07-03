@@ -1,20 +1,21 @@
 ---
 description: ''
-dateModified: '2016-07-03T17:25:24.018Z'
-datePublished: '2016-07-03T17:25:25.175Z'
+dateModified: '2016-07-03T17:34:30.577Z'
+datePublished: '2016-07-03T17:34:31.236Z'
 title: The Guide to River Running
-author: []
-starred: false
+author:
+  - name: DHKing
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f9a0e6-b405-4c2d-9679-43774b44cb96.jpg
 sourcePath: _posts/2016-07-03-the-guide-to-river-running.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f9a0e6-b405-4c2d-9679-43774b44cb96.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52b3b21ebc7f7e969f1bb1a2b49200cb/croprotate.jpg?cropheight=2593&cropwidth=3888&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe6f9a0e6-b405-4c2d-9679-43774b44cb96.jpg&x=0&y=0)
 
 # The Guide to River Running
 
